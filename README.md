@@ -1,15 +1,16 @@
-## Hi, I'm Praise 🙋🏿‍♀️
-
-💡  Full Stack Engineer at Lampstand.<br/>
-🛠️ I build apps to stay consistent.<br/>
-📚 Devoted to learning and staying curious—always exploring new ideas.<br/>
-🚀 Passionate about clean code, solving real-world problems, and making tech more accessible.<br/>
-
-
 <h1 align="center">Hi 👋, I'm Praise</h1>
 <h3 align="center">A passionate full stack engineer from Nigeria</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praisety" alt="praisety" /></a> </p>
+
+
+
+- 💡  Full Stack Engineer at Lampstand.<br/>
+
+- 🛠️ I build apps to stay consistent.<br/>
+
+- 📚 Devoted to learning and staying curious—always exploring new ideas.<br/>
+
+- 🚀 Passionate about clean code, solving real-world problems, and making tech more accessible.<br/>
 
 - 🔭 I’m currently working on **notes app**
 
